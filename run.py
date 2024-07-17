@@ -374,8 +374,8 @@ def eval_seq2seq_batch(args, content_discourse_dir, sigmoid, data_batch, model, 
     total_data = torch.sum(input_length)
 
     content_size = abstract_discourses.size(1)
-    # if content_size > args.content_size:
-    #     content_size = args.content_size
+    if content_size > args.content_size:
+        content_size = args.content_size
 
     if torch.cuda.is_available():
         document = document.to(device)

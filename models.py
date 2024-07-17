@@ -164,18 +164,18 @@ class Multi_Sent_Discourse_summ(nn.Module):
     def forward(self, inputs, doc_lengths, sentence_name, abstract_discourses, content_discourses, device):
         
 
-        # 检查是否有nan
-        has_nan=torch.isnan(inputs)
-        nam_num = torch.sum(has_nan).item()
-        if  nam_num> 0:
-            print('inputs:',nam_num)
-            print('inputs:',has_nan)
-            # 找到包含NaN值的位置
-            nan_indices = torch.nonzero(has_nan).squeeze()
+        # # 检查是否有nan
+        # has_nan=torch.isnan(inputs)
+        # nam_num = torch.sum(has_nan).item()
+        # if  nam_num> 0:
+        #     print('inputs:',nam_num)
+        #     print('inputs:',has_nan)
+        #     # 找到包含NaN值的位置
+        #     nan_indices = torch.nonzero(has_nan).squeeze()
 
-            # 输出结果
-            print("Indices of NaN values:", nan_indices)
-            input('nan in inputs')
+        #     # 输出结果
+        #     print("Indices of NaN values:", nan_indices)
+        #     input('nan in inputs')
 
 
         # sent_discourse

@@ -126,24 +126,6 @@ else:
     print('Load vocabulary from vocabulary_%s.json'%(args.dataset))
 sys.stdout.flush()
 
-# get the pos weight, used in the loss function
-# pos_fname = args.dataset + '_pos_weight.txt'
-# if os.path.exists(pos_fname):
-#     print('get_posweight exists')
-#     with open(pos_fname, 'r') as f:
-#         for line in f:
-#             pos_weight = float(line.strip())
-
-#     if torch.cuda.is_available():
-#         pos_weight = torch.FloatTensor([pos_weight]).to(device)
-#         print('pos_weight:',pos_weight)
-# else:
-#     pos_weight = get_posweight(pos_fname, train_label_dir)
-#     if torch.cuda.is_available():
-#         pos_weight = pos_weight.to(device)
-#     print('pos_weight:',pos_weight)
-
-
 #------set weight manually
 pos_weight = torch.tensor(1.0).to(device)
 print('pos_weight:',pos_weight)
