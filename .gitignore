@@ -2,11 +2,10 @@ __pycache__
 datasets/pubmed*
 datasets/arxiv*
 eval_hyp/*
-!eval_hyp/
-pred_content_plan/*
-!pred_content_plan/
-pretrained_embeddings/*
-pretrained_models/*
-temp/*
-test_hyp/*
+!eval_hyp/readme
+log/*
+
+
 *.dat
+pretrained_models/*
+pretrained_embeddings/glove.6B.300d.txt

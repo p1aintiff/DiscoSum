@@ -1,0 +1,127 @@
+{
+    "0704.1042.txt": [
+        "both discrete and continuous mixtures were analyzed . in the case of the dcnot and swap - class direct numerical optimization was performed .\n",
+        "we argue that the ( dis)entangling capacity is achieved when a map acts on the optimal pure state from the same family as in the unitary case .\n",
+        "we have discussed the entangling and disentangled capacities of nonlocal cptp unital maps , i.e. maps that can be represented as probabilistic mixtures of unitaries , and have calculated these capacities in some particular cases for two qubits ."
+    ],
+    "0704.3412.txt": [
+        "the results of our numerical simulations show that after a characteristic delay time @xmath83 , a peak in radiated power occurs , which subsequently decays in a chaotic , oscillatory manner , superimposed on a @xmath82 background .\n",
+        "sr is also suppressed progressively with increasing oscillator density @xmath58 .\n",
+        "this behavior is ultimately a consequence of collective dipole - dipole interactions .\n",
+        "experimental observations of sr in semiconductors exhibit similar behavior  @xcite .\n",
+        "time evolution of the phase distribution of oscillators in systems with a strong dipole - dipole interaction ."
+    ],
+    "0706.0753.txt": [
+        "we provide a statistical mechanical theory of time independent , nondissipative , nonequilibrium systems .\n",
+        "we have presented a rigorous development of statistical mechanics and thermodynamics for nonergodic systems where the macroscopic properties are sensibly time independent and the phase space for the ensemble is partitioned into robust domains .\n",
+        "the fundamental origin of the peak in the specific heat near the glass transition has been unambiguously shown to be a signature of a transition from metastable equilibrium to a nonergodic multi - domain ensemble .\n",
+        "we have developed expressions for obtaining averages in a multiple domain ensemble and shown how single domain averages , which always give correct results in metastable equilibrium , can give spurious results in a history dependent nonergodic ensemble .\n",
+        "using computer simulation we have carried out various tests on a glassy system and shown that apart from the immediate vicinity of the glass transition , the computed results are consistent with our theory .\n",
+        "we have shown that the transient fluctuation relations for temperature and pressure quenches provide independent tests of the fundamental hypotheses used in our theory : that intra - domain populations are individually boltzmann distributed , that except in the immediate vicinity of the glass transition the domains are robust with respect to small but finite variations in thermodynamic state variables , and that the inter - domain transition rates are negligible .\n",
+        "while the intra - domain populations are individually boltzmann distributed , the inter - domain populations are not .\n",
+        "the treatment we present here succeeds in doing just that by providing a rigorous development of equilibrium statistical mechanics and thermodynamics for ensembles of systems where the phase space breaks up into ensembles of domains whose inter - domain dynamics is nonergodic and whose inter - domain population levels may not be boltzmann weighted ."
+    ],
+    "0707.2232.txt": [
+        "in this work we have studied the backward scattering of low - energy antiprotons by highly charged and neutral uranium .\n",
+        "we found that a maximum in the differential cross section at the scattering angle @xmath62 exists in a wide range of energies of the incident particle .\n",
+        "our quantum - mechanical calculations showed that the coulomb glory can be observed for the energies of the antiproton within the range 100 ev  7 kev , depending on the electronic configuration of the ion .\n",
+        "both interactions are of very short - range that prevents large dcs values in the backward direction .\n",
+        "in general holds , the larger the number of electrons , the higher the energy where the effect has its strongest manifestation . in the case of coulomb glory , the differential cross section at @xmath62 can be much larger than the corresponding background cross section . actually , the ratio of these two quantities ranges from 4 for the he - like uranium to 609 for the ni - like uranium ."
+    ],
+    "0707.2377.txt": [
+        "the rotation curve has the shape ( steep inner rise ) typical of high surface brightness ( hsb ) galaxies .\n",
+        "clearly , in its inner luminous part , malin 1 has the characteristics of an early - type hsb galaxy ."
+    ],
+    "0708.4017.txt": [
+        "grb hosts may be consistent with a population of optically faint radio galaxies ( ofrgs ) having similar infrared luminosities and ( likely ) temperatures .\n",
+        "however , all of them are local galaxies , so can not be considered as counterparts of high - redshift smgs and their submm emission has been detected only because of their proximity ."
+    ],
+    "0709.4100.txt": [
+        "in an informative display of supernovae light curves ( fig.1 in physics today , july 2007 , p 17 ) it was clear that sn2006gy was about `` 10 times brighter than the peak luminosity of type ia '' .\n",
+        "implied was a total radiated energy `` two orders of magnitude '' greater than ordinary supernovae .\n",
+        "in fact it extends in filaments over about 90 degrees in angle which would require a structure of startlingly large size at its redshift distance of 74 mega parsecs ."
+    ],
+    "0801.4446.txt": [
+        "our observations of show an evident excess of power in the ps , clearly disentangled from the low frequency increase , and with a position and amplitude that are in agreement with expectations .\n",
+        "although hampered by the single - site window , the comb analysis and the echelle diagram show clear evidence for regularity in the peaks at the spacing expected from asymptotic theory .\n",
+        "moreover , our results provide valuable confirmation that oscillations in solar - like stars really do have the amplitudes that scales as @xmath78 by extrapolating from the sun .\n",
+        "we hope that in the near future a multi - site observing campaign will allow us to explore further the oscillation spectrum of .\n",
+        "we also note that the frequency of excess of power ( 1.2mhz ) is consistent with the value expected from scaling the acoustic cutoff from the solar case .\n",
+        "2 shows a pronounced excess of power in the power spectrum ( ps ) around 1.2mhz which is the clear signature of @xmath11-modes oscillations for a g5 subgiant star ."
+    ],
+    "0802.0627.txt": [
+        "stellar evolution is usually treated in hydrostatic approaches , the evolution towards the ignition of the thermonuclear explosion takes about a century and needs special hydrodynamical approximations , while the explosion process is modelled via a combination of hydrodynamics , turbulence modelling and treatment of nuclear reactions .\n",
+        "therefore , approximations and numerical modeling are inevitable .    here , we will discuss the a typical astrophysical scenario  the thermonuclear explosion of a white dwarf ( wd ) star which is believed to give rise to a type ia supernova ( sn  ia ) explosion .\n",
+        "the astrophysical scenario of sne  ia described in the previous section obviously poses great challenges numerical modeling .\n",
+        "many of the problems found here are typical for a broad range of astrophysical phenomena .\n",
+        "the different stages of the evolution of the system are characterized by very different timescales and distinct physical mechanisms ."
+    ],
+    "0803.2693.txt": [
+        "the ( simple ) radiative model of a jet boundary layer follows that of so02 .\n",
+        "ar _ shear layers .    as mentioned above , jet shear layers , represent natural sites for particle acceleration , providing high - energy cosmic rays and influencing the dynamics of relativistic jets in extragalactic radio sources by forming cosmic - ray cocoons @xcite .\n",
+        "further support in favor of radial jet stratification as a consequence of the interaction between a jet and its environment is provided by three - dimensional hydrodynamic simulations of relativistic , large scale jets @xcite and two - dimensional simulations of relativistic magnetized jets @xcite .\n",
+        "the dynamics of a relativistic magnetohydrodynamic jet in an external medium can be treated as the motion of two fluids , one of which ( the jet ) is much hotter and at higher ( or equal ) pressure than the other one ( the external medium ) , and is moving with a large tangential velocity with respect to the cold , slowly moving fluid .\n",
+        "we will closely follow so02 working hypothesis , however we will replace the monotonic shear layer kinematic structure they assumed by an anomalous one as suggested by @xcite . the aim being to show whether ar - shear layers imprint any distinctive feature in the radiation produced by the jet as compared with standard boundary layers ."
+    ],
+    "0805.0401.txt": [
+        "firstly , we perform a detailed investigation on the simplest lr model with one higgs bi - doublet , in which there are no any cp violation phases .\n",
+        "furthermore , we find that the neutral higgs bosons @xmath21 and @xmath22 are a pair of stable weakly interacting massive particles ( wimps ) .\n",
+        "if we preserve the majorana yukawa couplings , the corresponding model must lie beyond the lr symmetric model .\n",
+        "it is worthwhile to stress that neutrinos are the dirac particles in this scenario .\n",
+        "one may introduce a discrete @xmath17 symmetry @xmath18 and @xmath19 to resolve this vev - seesaw problem @xcite .\n",
+        "however , our result is 3 - 5 orders of magnitude above the present bounds for @xmath23 gev @xcite . to avoid this puzzle , @xmath21 and @xmath22 ca nt dominate all the dark matter . we find that our scenario is consistent with the direct dark matter detection experiments only when @xmath24 , where @xmath25 is the total relic number density of @xmath21 and @xmath22 ."
+    ],
+    "0806.0199.txt": [
+        "we perform a 2d full particle simulation of a high mach number and low - beta perpendicular collisionless shock .\n",
+        "we developed a 2d shock - rest - frame model for full particle simulations .\n",
+        "then a 2d simulation of a low - beta and high mach number perpendicular shock was performed , which shows that electrons are thermalized in the direction parallel to the ambient magnetic field in contrast to the previous 1d simulations .\n",
+        "the preliminary result shows that the electron surfing acceleration is suppressed in a 2d system ."
+    ],
+    "0807.2334.txt": [
+        "here we describe the results of our determination of the mass content of the sculptor ( scl ) dsph by adopting a more detailed kinematic modelling than the traditional one , i.e. by considering scl as two-(stellar ) components embedded in an extended dm halo .\n",
+        "the combined information of velocity and metallicity from a large sample of flames spectra of individual stars in scl has allowed us to separate the different kinematics of the two stellar populations in scl , and to carry out a more detailed kinematic modelling which allows us to partially break the mass - anisotropy degeneracy .    under the hypotheses explored for the behaviour of the velocity anisotropy @xmath13 , the two - component modelling indicates that a cored profile is slightly favoured over a cusped profile , as the latter tends to over - predict the central values ( at @xmath42 0.1 kpc ) of the mr velocity dispersion ."
+    ],
+    "0808.0400.txt": [
+        "we have shown that in the uneliminated case it is necessary to include all the possible terms which can be generated by renormalisation with their own couplings , and that this leads to results equivalent to those obtained in the eliminated theory .\n",
+        "firstly , we show how analogues of the differential operators introduced in ref .\n",
+        "next we re - examine the two - loop calculation first performed in ref .\n",
+        "we have performed a complete analysis up to two loops of the renormalisation of the non - anticommutative wess - zumino model .\n",
+        "the one - loop divergences for this model were computed in ref .\n",
+        "it seems possible that both approaches are internally consistent , but that the eliminated theories thereby obtained are simply different at the quantum level .\n",
+        "@xcite identify @xmath46 and @xmath42 through a different , and inequivalent , process , which involves reassessing the identification diagrammatically at each loop level ."
+    ],
+    "0810.3088.txt": [
+        "it has been demonstrated that , the orthonormal relations for bogoliubov modes correspond to that for quanta in effective spacetime with respect to the kg product .\n",
+        "in conclusion , we have formulated quantum field theory in analogue spacetime based on the bdg equations . in this analogy , quanta in curved spacetimes are explicitly exactly related with bogoliubov quasiparticles on condensates .\n",
+        "in this section , we discuss a simple example of particle creation and derive a formula connecting particle creation spectrum and bdg wave functions .\n",
+        "we derive a simple formula for the particle creation spectrum in terms of bdg wave functions , which can be applied to simple dynamical evolution whose initial and final condensations are quasi - static . furthermore , we calculate the particle creation in the analogue expanding universe by numerically solving time - dependent bdg equations for an expanding bec .\n",
+        "the spectrum obtained is consistent with the thermal maxwell - boltzmann distribution for the temperature @xmath189 nk , which is experimentally accessible ."
+    ],
+    "0811.1071.txt": [
+        "in summary , we have studied the geometric phases of a two - level system coupled to a non - markovian environment .\n",
+        "we have chosen three different methods to describe the non - markovian process .\n",
+        "the non - markovian effects on the geometric phase are presented and discussed ."
+    ],
+    "0902.1324.txt": [
+        "the goal of the paper is to survey what is known about another lagrangian duality based relaxation , namely the eigenvalue relaxation , for this problem .\n",
+        "next , in the case where strong duality does not hold , we show that goemans and williamson s randomized algorithm has a very natural meaning when viewed in terms of the optimal eigenspace associated to the maximal eigenvalue in the eigenvalue relaxation .    in the last section , we propose simulation experiments in the case of binary image denoising and cdma multiuser detection problems .\n",
+        "in this paper , we surveyed the main properties of the eigenvalue relaxation for binary least squares problem .\n",
+        "a full connection with the standard sdp relaxation was presented and we showed how to recover a solution of the semi - definite program from the solution of the eigenvalue minimization problem .\n",
+        "the problem of recovering primal binary solution was also addressed and we gave simple sufficient conditions for strong duality . in the case where these conditions are not satisfied , the randomized procedure adapted from goemans and williamson s allows to recover binary solutions with garanteed relative approximation ratio due to nesterov s bound .\n",
+        "we first give sufficient conditions under which strong duality holds and the eigenvectors of norm @xmath8 associated to the maximum eigenvalue at optimality are binary solutions ."
+    ],
+    "0902.2069.txt": [
+        "the basic idea of the made - to - measure ( m2 m ) method is to adjust the @xmath0-body weights until the model satisfies some constraints , expressed as maximisation of a merit function .\n",
+        "since the m2 m technique works directly with @xmath0-body data , it offers a simple and natural way to generate @xmath0-body initial conditions with prescribed properties ( st96 ) , in particular non - spherical shape and non - isotropic velocity structure .\n",
+        "i present the traditional st96 & dl07 version of m2 m in section [ sec : trad ] and my modifications to the method in  [ sec : novel ] , while  [ sec : ics ] presents some tests of tailoring non - spherical and/or velocity - anisotropic @xmath0-body models .\n",
+        "this strongly suggests that radial velocity anisotropy is an inevitable property of ( non - rotating ) triaxial equilibrium models ."
+    ],
+    "0903.3153.txt": [
+        "@xcite , and propagation effects for the anti - stokes photon in ref .\n",
+        "+    the creation of collective atomic excitations via spontaneous raman emission plays an important role in well - known quantum information protocols , in particular the quantum repeater @xcite protocol proposed by duan , lukin , cirac and zoller ( dlcz ) @xcite ; for other protocols based on the same process see @xcite .\n",
+        "moreover for near - resonant ( non - adiabatic ) excitation the excited state plays a role in the raman process , leading to phases that differ from atom to atom in inhomogeneous systems .\n",
+        "of course the precise shape ( not just the width ) of the atomic distribution has to be taken into account for any given experiment .\n",
+        "ii we study spontaneous raman emission for a single atom under pulsed excitation .\n",
+        "we showed how one can quantify the collectivity of atomic excitations created by spontaneous raman emission in inhomogeneous ensembles , based essentially on simple calculations for a two - level system in combination with suitable averages over the inhomogeneous atomic spectral distribution ."
+    ]
+}

@@ -1,6 +1,8 @@
 ## Data
 The original data: https://github.com/armancohan/long-summarization.<br/>
-Our preprocessed data: <a href = 'https://drive.google.com/file/d/1rJeEYJmpqhNOgOIfB3B2yxraL2WEsV4g/view?usp=sharing'>arXiv</a>,<a href='https://drive.google.com/file/d/1v4quWNb4ujVrzLhdDsAyyTiHKdrC4Dg8/view?usp=sharing'>Pubmed</a> <br/>
+seq2seq-global&local: <a href = 'https://drive.google.com/file/d/1rJeEYJmpqhNOgOIfB3B2yxraL2WEsV4g/view?usp=sharing'>arXiv</a>,<a href='https://drive.google.com/file/d/1v4quWNb4ujVrzLhdDsAyyTiHKdrC4Dg8/view?usp=sharing'>Pubmed</a> <br/>
+
+our data: <a>http://101.42.157.67:5244/d/AliB/data/useful-data/datasets-c.zip</a>
 
 ```
 {
