@@ -1,0 +1,2 @@
+nohup python test.py --subset_size 0 --test_input inputs/test/ --test_label labels/test/ --test_abstract_discourse abstract-discourses/test/ --refpath human-abstracts/test/ --gloveDir ./pretrained_embeddings --test_content_discourse content-discourses/test/ --length_limit 200 --dataset pubmed --device 0 --model multi_sent_discourse_summ --model_path pretrained_models/ --mode test --content_size 8 --teacher_forcing_ratio 1.5 --discourse_dim 32 --section_dim 32 --epoch 28 --runtime both-8-64-32-32-1.5-1 \
+> ./log/pubmed/pubmed_3_test_$(date +%Y%m%d_%H%M%S).log 2>&1 &

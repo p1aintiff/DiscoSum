@@ -1,0 +1,2 @@
+nohup python main.py  --train_input inputs/train/ --train_label labels/train/ --train_abstract_discourse abstract-discourses/train/ --train_content_discourse content-discourses/train/ --val_input inputs/val/ --val_label labels/val/ --val_abstract_discourse abstract-discourses/val/ --refpath human-abstracts/val/ --gloveDir ./pretrained_embeddings --val_content_discourse content-discourses/val/ --length_limit 220 --batchsize 48 --dataset arxiv --device 0 --model ext_summ --mode validate --runtime 0 \
+> ./log/arxiv/arxiv_1_train_$(date +%Y%m%d_%H%M%S).log 2>&1 &

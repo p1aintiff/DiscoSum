@@ -1,0 +1,2 @@
+nohup python test.py --subset_size 64 --epoch 9  --test_input inputs/test/ --test_label labels/test/ --test_abstract_discourse abstract-discourses/test/ --refpath human-abstracts/test/ --gloveDir ./pretrained_embeddings --test_content_discourse content-discourses/test/ --length_limit 200 --dataset arxiv --device 0 --model multi_sent_discourse_summ --model_path pretrained_models/ --mode test --content_size 10 --teacher_forcing_ratio 1.5 --discourse_dim 32 --section_dim 32 --runtime both-10-64-32-32-1.5-1 \
+> ./log/arxiv/arxiv_3_test_$(date +%Y%m%d_%H%M%S).log 2>&1 &

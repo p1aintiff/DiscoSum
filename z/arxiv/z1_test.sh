@@ -1,0 +1,2 @@
+nohup python test.py --test_input inputs/test/ --test_label labels/test/ --test_abstract_discourse abstract-discourses/test/ --refpath human-abstracts/test/ --gloveDir ./pretrained_embeddings --test_content_discourse content-discourses/test/ --length_limit 200 --dataset arxiv --device 0 --model ext_summ --model_path pretrained_models/ --mode test  --epoch 5 --runtime 0 \
+> ./log/arxiv/arxiv_1_test_$(date +%Y%m%d_%H%M%S).log 2>&1 &

@@ -1,0 +1,10 @@
+__pycache__
+datasets/pubmed*
+datasets/arxiv*
+eval_hyp/*
+pred_content_plan/*
+pretrained_embeddings/*
+pretrained_models/*
+temp/*
+test_hyp/*
+*.dat
